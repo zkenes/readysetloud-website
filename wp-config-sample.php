@@ -29,7 +29,7 @@ define('DB_USER', 'zkenes');
 define('DB_PASSWORD', 'zkenes1993');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'srv-pleskdb18.ps.kz:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
